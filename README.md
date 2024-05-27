@@ -12,7 +12,7 @@
 * [License](#license)
 
 ## About
-This project made for simplification of level creation.
+This project made for simplification of game mechanics debugging.
 Tested on Unity 2020.3 (Windows).
 
 ## Setup
@@ -37,4 +37,4 @@ Utils.GizmoPro.DrawWireArrow(new Vector3(9, 0, 3), new Vector3(9, 0, 3) + transf
 Utils.GizmoPro.DrawWireLine(new Vector3(12, 0, 3), new Vector3(12, 0, 3) + transform.up * 2);
 ```
 ## License
-Unity GizmoExtensionPro licensed under the Apache 2.0 License, see LICENSE for more information.
+Unity GizmoExtensionPro licensed under the Apache-2.0 License, see LICENSE for more information.
