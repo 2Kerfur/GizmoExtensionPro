@@ -2,7 +2,9 @@
 
 ![AppVeyor](https://img.shields.io/badge/build-passing-brightgreen)
 
-## Info![gizmoPro](https://github.com/2Kerfur/GizmoExtensionPro/assets/73479696/d2301b32-5af9-4f1d-921a-2021448e1011)
+![gizmoPro](https://github.com/2Kerfur/GizmoExtensionPro/assets/73479696/d2301b32-5af9-4f1d-921a-2021448e1011)
+
+## Info
 
 * [About](#about)
 * [Setup](#setup)
